@@ -1,0 +1,57 @@
+body {
+    margin: 0;
+    line-height: normal;
+  }
+  
+  :root {
+    /* fonts */
+    --font-poppins: Poppins;
+    --font-cormorant-infant: "Cormorant Infant";
+    --font-lexend-deca: "Lexend Deca";
+    --font-inherit: inherit;
+    --font-quicksand: Quicksand;
+  
+    /* font sizes */
+    --font-size-5xl: 1.5rem;
+    --font-size-xl: 1.25rem;
+    --font-size-4xl: 1.44rem;
+    --font-size-31xl: 3.13rem;
+    --font-size-11xl: 1.88rem;
+    --font-size-29xl: 3rem;
+    --font-size-6xl: 1.56rem;
+  
+    /* Colors */
+    --color-dimgray-100: #5f5f5f;
+    --color-darkslategray-100: rgba(65, 65, 65, 0.5);
+    --color-white: #fff;
+    --color-darkslateblue-100: #3c2b4a;
+    --color-royalblue-100: #527ceb;
+    --color-gray-100: rgba(255, 255, 255, 0.01);
+    --color-whitesmoke-100: #f9f9f9;
+    --color-gainsboro: #d8d8d8;
+    --bg-shade: #f5fcff;
+    --primary: #5e3bee;
+  
+    /* Gaps */
+    --gap-198xl: 13.56rem;
+    --gap-sm: 0.88rem;
+    --gap-200xl: 13.69rem;
+    --gap-13xl: 2rem;
+  
+    /* Paddings */
+    --padding-12xl: 1.94rem;
+    --padding-39xl: 3.63rem;
+    --padding-31xl: 3.13rem;
+    --padding-2xs: 0.69rem;
+    --padding-lg: 1.13rem;
+    --padding-13xl: 2rem;
+    --padding-sm-3: 0.83rem;
+  
+    /* border radiuses */
+    --br-10xs: 3px;
+    --br-24xl: 43px;
+    --br-5xl: 24px;
+    --br-2xs-7: 10.7px;
+    --br-27xl: 46px;
+  }
+  
